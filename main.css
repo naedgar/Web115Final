@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif, Arial;
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+form {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: left;
+}
